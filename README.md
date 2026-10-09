@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nasser Beirat 👋
 
-<!--
-**malki11/malki11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer who loves building websites and web apps from scratch.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on my developer portfolio and client websites
+- 🌱 I'm currently learning more full-stack development
+- 👯 I'm looking to collaborate on web projects
+- 💬 Ask me about HTML, CSS, JavaScript, and building responsive websites
+- 📫 How to reach me: nassermalki17a@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I like building
+- Responsive websites
+- Bilingual (English/Arabic) web pages
+- Full-stack web applications
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/nasser-beirat-373080333/)
+- [GitHub](https://github.com/malki11)
